@@ -1,5 +1,7 @@
 Terminess Powerline
 ===================
+One of my favourite fonts - Terminus (Patched with Powerline symbols) for OSX.
+Use as Non-ASCII Font for iTerm2.
 
 :Font creator: Dimitar Zhekov
 :Version: media-fonts/terminus-font-4.36 with USE=X pcf psf ru-g
